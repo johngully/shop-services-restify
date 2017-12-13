@@ -1,0 +1,20 @@
+{
+  "name": "shop-services-restify",
+  "version": "0.1.0",
+  "description": "Services to support the shop examples implemented using restify",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngully/shop-services-restify.git"
+  },
+  "author": "John Gully",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johngully/shop-services-restify/issues"
+  },
+  "homepage": "https://github.com/johngully/shop-services-restify#readme",
+  "scripts": {},
+  "dependencies": {
+    "lowdb": "^0.16.2",
+    "restify": "^6.3.4"
+  }
+}
